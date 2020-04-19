@@ -1,6 +1,6 @@
 # README SCHOOL TEMPLATE BY : Jelle Vermeulen
 ---
->To get access to the template press on the **RAW** button and copy paste this template in [dillinger.io](http://www.dillinger.io) and you can edit it for your own preferences
+>To get access to the template press on the **RAW** button in this file [README.md](README.md) and copy paste this template in [dillinger.io](http://www.dillinger.io) and you can edit it for your own preferences
 ---
 ## 1. Text sizes
 ---
